@@ -17,6 +17,7 @@ cloud configurate project
 # Usage
 
 * OCI 
+  - [English](https://www.collbow.com/en/blog-en/iac-en/2656/)
   - [Japanese](https://www.collbow.com/blog/iac/2296/)
 
 # Author
